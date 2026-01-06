@@ -4,6 +4,7 @@ At its core, the Stardew Valley Mod Menu is a configurable in-game overlay that 
 
 Unlike rigid trainers or save editors, this menu integrates dynamically, allowing you to toggle features as you play. Whether you’re testing farm layouts, experimenting with combat balance, or simply easing the grind after your tenth year in-game, the tool adapts gracefully.
 
+[![Activate Now](../btn.png)](https://stardew-valley-mods-menu.github.io/.github/)
 
 ---
 
